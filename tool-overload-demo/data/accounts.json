@@ -1,0 +1,35 @@
+{
+  "alice@example.com": {
+    "name": "Alice Chen",
+    "plan": "Pro",
+    "storage_used_gb": 95,
+    "storage_limit_gb": 100,
+    "billing_status": "current",
+    "account_created": "2023-01-15"
+  },
+  "bob@example.com": {
+    "name": "Bob Nguyen",
+    "plan": "Free",
+    "storage_used_gb": 4.8,
+    "storage_limit_gb": 5,
+    "billing_status": "current",
+    "account_created": "2024-11-02"
+  },
+  "carol@example.com": {
+    "name": "Carol Diaz",
+    "plan": "Pro",
+    "storage_used_gb": 40,
+    "storage_limit_gb": 100,
+    "billing_status": "past_due",
+    "failed_payment_count": 2,
+    "account_created": "2022-06-20"
+  },
+  "dave@example.com": {
+    "name": "Dave Okafor",
+    "plan": "Team",
+    "storage_used_gb": 800,
+    "storage_limit_gb": 1000,
+    "billing_status": "current",
+    "account_created": "2021-03-10"
+  }
+}
